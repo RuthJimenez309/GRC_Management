@@ -1,0 +1,3 @@
+﻿"ID_Riesgo","Titulo_Riesgo","Probabilidad","Impacto","Puntuacion_Riesgo","Criticidad","Control_Compensatorio","Fecha_Evaluacion"
+"3E2F7B3E","2","2","1","2","Bajo","Aceptar formalmente el riesgo residual bajo supervision logica y revision semestral de firmas basicas.","2026-11-03 20:20:54"
+"9F7F038E","1","8","1","8","Bajo","Aceptar formalmente el riesgo residual bajo supervision logica y revision semestral de firmas basicas.","2026-11-03 20:22:43"
